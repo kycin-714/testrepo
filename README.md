@@ -1,5 +1,7 @@
 # Test Repository ReadMe
 
+Play here: https://arcade.makecode.com/S23836-33253-84555-16323 
+
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
