@@ -4,12 +4,16 @@ Play here: https://arcade.makecode.com/S23836-33253-84555-16323
 
 ## Table of contents
 * [General info](#general-info)
+* [How to play] (#how-to-play)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
 ## General info
 This project is simple Lorem ipsum dolor generator.
-	
+
+## How to play
+
+
 ## Technologies
 Project is created with:
 * Lorem version: 12.3
